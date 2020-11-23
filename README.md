@@ -13,7 +13,9 @@ The code has been refracted for quality assurance and accessibility to anyone.
 
 A quick glance at the homepage:
 
-![Screenshot](./assets/images/homepage.PNG)
+![Screenshot](./blob/main/assets/images/Homepage.PNG)
+
+It is good to note the alt text that is provided for each important image for those that are visually impaired. 
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
