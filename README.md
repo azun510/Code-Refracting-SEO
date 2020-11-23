@@ -9,13 +9,11 @@ The code has been refracted for quality assurance and accessibility to anyone.
 
  <a href="https://azun510.github.io/CodeRefracting/" target="_blank">https://azun510.github.io/CodeRefracting/ </a>
 
-## User Story
+## View of the Site 
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+A quick glance at the homepage:
+
+![Screenshot](./assets/images/Horiseon-Homepage.jpg)
 
 ## Acceptance Criteria
 
