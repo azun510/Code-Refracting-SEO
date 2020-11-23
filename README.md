@@ -13,7 +13,7 @@ The code has been refracted for quality assurance and accessibility to anyone.
 
 A quick glance at the homepage:
 
-![Screenshot](./blob/main/assets/images/Homepage.PNG)
+![Screenshot](./assets/images/horiseon-homepage.png)
 
 It is good to note the alt text that is provided for each important image for those that are visually impaired. 
 
